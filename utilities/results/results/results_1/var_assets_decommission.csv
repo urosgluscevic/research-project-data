@@ -1,0 +1,5 @@
+id,asset,milestone_year,commission_year,decommissionable,initial_units,investment_integer,solution
+1,demand,2030,2030,true,0.0,false,0.0
+2,ens,2030,2030,true,1.0,false,0.0
+3,gas,2030,2030,true,1.0,false,0.0
+4,smr,2030,2030,true,1.0,true,0.0
